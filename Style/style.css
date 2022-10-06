@@ -29,3 +29,21 @@
   overflow-y: hidden;
   overflow-x: auto;
 }
+
+.liga-mx {
+  display: flex;
+  overflow-y: auto;
+}
+
+.liga-mx img {
+  width: 195px;
+  height: 114.58px;
+  margin-right: 5px;
+  display: block;
+}
+
+.liga-mx p {
+  display: table-cell;
+  font-size: 13px;
+  font-weight: bold;
+}
